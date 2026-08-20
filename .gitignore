@@ -1,0 +1,21 @@
+.DS_Store
+.Rhistory
+.RData
+.Ruserdata
+
+# Supplied or derived research data are not redistributed
+data/
+results/
+*.rds
+*.RDS
+*.csv
+*.tsv
+*.xlsx
+*.xls
+*.treefile
+*.tre
+
+# Common generated figures
+*.png
+*.pdf
+*.svg
